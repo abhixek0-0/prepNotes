@@ -1,4 +1,4 @@
-# ⭐ Prefix Sum
+⭐ Prefix Sum
 
 1. What (definition + intuition)
 Definition:
